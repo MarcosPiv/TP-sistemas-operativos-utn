@@ -14,4 +14,4 @@ TP2 llamadas al sistema (system calls) echo en C
 
 
 
-TP3 comunicacion entre procesos (IPC) encho en C
+TP3 comunicacion entre procesos (IPC) echo en C
